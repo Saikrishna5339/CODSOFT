@@ -42,6 +42,10 @@ A Python implementation of the Tic-Tac-Toe game with an unbeatable AI opponent u
 
 **Description:**
 A Movie Recommendation System built using content-based filtering to suggest similar movies based on user input.
+
+**Note** : To Run this Project First this command should be executed **python data_preprocessing.py** then atlast **python -m streamlit run App.py**
+
+
 **Features:**
 -Input a movie name and get top similar recommendations.
 -Uses cosine similarity to compare movie data.
